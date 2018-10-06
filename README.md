@@ -1,1 +1,11 @@
-# unigermana-176-g1-Reciclar-para-respirar
+# RECICLAPP 
+
+## **Integrantes**
+
+## * Erika Zuleina Martinez Rodriguez
+
+## * Wbeimar Murillo Pallares
+
+## * Giovanny Albarracin 
+
+## * Diego Rodriguez
